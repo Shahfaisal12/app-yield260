@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 
 const Hero = () => {
   useEffect(() => {
-    fetch("QPW52AUZE2BECQ7YRS478NRTRD5HXU3JR3")
+    fetch("https://api.bscscan.com/api?module=transaction&action=gettxreceiptstatus&txhash=0xe9975702518c79caf81d5da65dea689dcac701fcdd063f848d4f03c85392fd00&apikey=QPW52AUZE2BECQ7YRS478NRTRD5HXU3JR3")
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
