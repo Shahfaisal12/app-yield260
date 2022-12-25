@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="Hero-section pt-5">
         <div className="container">
           <div className="row">
-            <div className="h1 text-white">Y360 Dashboard</div>
+            <div className="h1 text-white text-start card-div">Y360 Dashboard</div>
           </div>
           <div className="container">
             <div className="row mt-5">
