@@ -22,19 +22,19 @@ const Sidebar = () => {
               </Link>
             </li>
             <li>
-              <Link to='/marketplace' className='d-flex'>
+              <Link to='/' className='d-flex'>
               <img src='https://app.yield360.io/assets/vector2.svg'  alt='' />
                 <h6>Accounts</h6>
               </Link>
             </li>
             <li>
-              <Link to='/allgame' className='d-flex'>
+              <Link to='/' className='d-flex'>
               <img src='https://app.yield360.io/assets/vector3.svg'  alt='' />
                 <h6>Calculator</h6>
               </Link>
             </li>
             <li>
-              <Link to='/gamedetail' className='d-flex'>
+              <Link to='/' className='d-flex'>
               <img src='https://app.yield360.io/assets/vector4.svg'  alt='' />
                 <h6>Swap</h6>
               </Link>
