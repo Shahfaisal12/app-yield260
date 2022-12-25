@@ -126,11 +126,11 @@
   padding: 50px 80px 50px 0px;
   background: #06060E;
 
-  .carde {
+  .card-bg {
     background: url(https://yield-360.s3.amazonaws.com/bg-gif.gif);
     background-size: cover;
-    width: 330px;
-    height: 330px;
+    width: 310px;
+    height: 310px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -161,7 +161,7 @@
   width: 4px;
 }
 
-.card-div{
+.card-data{
   text-align: center;
     margin-top: 20px;
     border-radius: 10px;
